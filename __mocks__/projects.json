@@ -1,0 +1,22 @@
+{
+  "stage": {
+    "products-api": {
+      "url": "https://stage.my-awesome-api/products/search?limit=1",
+      "status": 200
+    },
+      "categories-api": {
+      "url": "https://stage.my-awesome-api/categories/search?limit=1",
+      "status": 200
+    }
+  },
+  "develop": {
+    "products-api": {
+      "url": "https://develop.my-awesome-api/products/search?limit=1",
+      "status": 200
+    },
+      "categories-api": {
+      "url": "https://develop.my-awesome-api/categories/search?limit=1",
+      "status": 200
+    }
+  }
+}
